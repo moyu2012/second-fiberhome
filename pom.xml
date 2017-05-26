@@ -24,6 +24,7 @@
 	
 	<modules>
 		<module>second-config</module>
+		<module>second-config-client</module>
 	</modules>
 
 	<dependencies>

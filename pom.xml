@@ -28,6 +28,7 @@
 		<module>second-consul-server-1</module>
 		<module>second-consul-server-2</module>
 		<module>second-consul-client</module>
+		<module>second-consul-config-server</module>
 	</modules>
 
 	<dependencies>

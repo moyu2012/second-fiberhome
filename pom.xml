@@ -31,6 +31,8 @@
 		<module>second-consul-config-server</module>
 		<module>second-consul-config-client</module>
 		<module>second-consul-config-client-sub</module>
+		<module>second-consul-getway</module>
+		<module>second-consul-getway-client</module>
 	</modules>
 
 	<dependencies>
